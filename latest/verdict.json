@@ -1,5 +1,5 @@
 {
   "pass": true,
   "status": "PASS",
-  "summary": "compiled factory PASS: candidate=direct_3_lanes machines=6 final=72 worldPreserved=true"
+  "summary": "compiled factory PASS: candidate=enriched_1_lanes machines=4 final=24 worldPreserved=true"
 }
