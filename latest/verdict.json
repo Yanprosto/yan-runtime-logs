@@ -1,5 +1,5 @@
 {
   "pass": false,
-  "reason": "powered multi-cell factory v2.1 FAIL: seed_energy: IllegalStateException: seed_energy failed to increase stored energy at -566, 6, 63 before=0 after=0 reportedAccepted=0",
+  "reason": "powered multi-cell factory v2.1 FAIL: seed_energy: IllegalStateException: seed_energy failed to increase stored energy at -555, 1, 55 before=0 after=0 reportedAccepted=0",
   "status": "FAIL"
 }
