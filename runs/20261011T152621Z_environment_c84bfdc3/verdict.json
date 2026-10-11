@@ -1,0 +1,5 @@
+{
+  "pass": false,
+  "reason": "environment builder v1.0 FAIL: scene contract not satisfied: need one chest containing exactly 6 raw iron and two empty chests; sourceCandidates=[], empty=[(-4, 0, 0), (-2, 0, 4)]",
+  "status": "FAIL"
+}

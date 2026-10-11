@@ -1,8 +1,8 @@
 {
-  "command": "splitter",
-  "event_count": 380,
-  "finished_at_utc": "2026-10-11T15:18:46.233572+00:00",
+  "command": "environment",
+  "event_count": 17,
+  "finished_at_utc": "2026-10-11T15:26:21.735832+00:00",
   "prompt": "",
-  "run_id": "20261011T151739Z_splitter_3bf422ce",
-  "started_at_utc": "2026-10-11T15:17:39.222561+00:00"
+  "run_id": "20261011T152621Z_environment_c84bfdc3",
+  "started_at_utc": "2026-10-11T15:26:21.640903+00:00"
 }
