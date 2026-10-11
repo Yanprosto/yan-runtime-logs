@@ -1,5 +1,5 @@
 {
-  "pass": false,
-  "reason": "environment builder v1.0 FAIL: scene contract not satisfied: need one chest containing exactly 6 raw iron and two empty chests; sourceCandidates=[], empty=[(-4, 0, 0), (-2, 0, 4)]",
-  "status": "FAIL"
+  "pass": true,
+  "status": "PASS",
+  "summary": "environment builder v1.0 PASS: source=0 sink1=3 sink2=3 repairs=0 obstacles=196 worldPreserved=true skill=environment_aware_two_branch_v1"
 }
