@@ -1,5 +1,5 @@
 {
-  "pass": false,
-  "reason": "spatial search v0.9 FAIL: spatial-search footprint is not empty; occupied_count=5 sample=[{'x': 6, 'y': 1, 'z': -2, 'world_x': -549, 'world_y': 1, 'world_z': -53, 'block': 'minecraft:tall_grass', 'state': 'Block{minecraft:tall_grass}[half=upper]', 'is_air': False}, {'x': 8, 'y': 1, 'z': 0, 'world_x': -547, 'world_y': 1, 'world_z': -51, 'block': 'minecraft:tall_grass', 'state': 'Block{minecraft:tall_grass}[half=upper]', 'is_air': False}, {'x': 9, 'y': 1, 'z': 4, 'world_x': -546, 'world_y': 1, 'world_z': -47, 'block': 'minecraft:tall_grass', 'state': 'Block{minecraft:tall_grass}[half=upper]', 'is_air': False}, {'x': 10, 'y': 1, 'z': -4, 'world_x': -545, 'world_y': 1, 'world_z': -55, 'block': 'minecraft:tall_grass', 'state': 'Block{minecraft:tall_grass}[half=upper]', 'is_air': False}, {'x': 10, 'y': 1, 'z': 3, 'world_x': -545, 'world_y': 1, 'world_z': -48, 'block': 'minecraft:tall_grass', 'state': 'Block{minecraft:tall_grass}[half=upper]', 'is_air': False}]",
-  "status": "FAIL"
+  "pass": true,
+  "status": "PASS",
+  "summary": "spatial search v0.9 PASS: generated=8 benchmarked=8 passing=7 best=v2-x-flat axis=x arms=0/0 drop=0 left=3 right=3 blocks=5 score=9894 skill=mekanism_two_branch_distribution_v3 worldClean=true"
 }
