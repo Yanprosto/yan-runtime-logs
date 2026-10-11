@@ -1,0 +1,5 @@
+{
+  "pass": true,
+  "status": "PASS",
+  "summary": "splitter experiment v0.6 PASS: topology search completed; tried=2 accepted=variant-B topology=dual_independent_pull; left=3 right=3 imbalance=0; skill=mekanism_two_branch_distribution_v1; worldClean=true"
+}
