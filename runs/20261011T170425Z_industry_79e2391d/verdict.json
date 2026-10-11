@@ -1,0 +1,5 @@
+{
+  "pass": true,
+  "status": "PASS",
+  "summary": "iron works v4.0 PASS: selected=balanced_parallel_works candidates=3 lanes=2 machines=8 raw=36 final=48 transit=0 worldPreserved=true skill=branching_iron_works_v1"
+}

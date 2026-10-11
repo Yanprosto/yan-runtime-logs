@@ -1,5 +1,5 @@
 {
   "pass": true,
   "status": "PASS",
-  "summary": "goal industry v3.0 PASS: plan=iron_processing stages=2 machines=4 raw=18 final=24 transit=0 worldPreserved=true skill=goal_driven_iron_processing_district_v1"
+  "summary": "iron works v4.0 PASS: selected=balanced_parallel_works candidates=3 lanes=2 machines=8 raw=36 final=48 transit=0 worldPreserved=true skill=branching_iron_works_v1"
 }
