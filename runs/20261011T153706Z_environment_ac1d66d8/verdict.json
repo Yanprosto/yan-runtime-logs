@@ -1,0 +1,5 @@
+{
+  "pass": false,
+  "reason": "environment builder v1.0 FAIL: planner found no pair of routes from source to both sinks",
+  "status": "FAIL"
+}

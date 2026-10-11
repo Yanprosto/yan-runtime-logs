@@ -1,8 +1,8 @@
 {
   "command": "environment",
-  "event_count": 118,
-  "finished_at_utc": "2026-10-11T15:35:20.930895+00:00",
+  "event_count": 28,
+  "finished_at_utc": "2026-10-11T15:37:06.726470+00:00",
   "prompt": "",
-  "run_id": "20261011T153501Z_environment_5ea6bff8",
-  "started_at_utc": "2026-10-11T15:35:01.396504+00:00"
+  "run_id": "20261011T153706Z_environment_ac1d66d8",
+  "started_at_utc": "2026-10-11T15:37:06.700329+00:00"
 }
