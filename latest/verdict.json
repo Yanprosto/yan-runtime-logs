@@ -1,5 +1,5 @@
 {
-  "pass": true,
-  "status": "PASS",
-  "summary": "transit-aware environment builder v1.2 PASS: source=0 sink1=3 sink2=3 repairs=1 obstacles=284 transit=0 conserved=True worldPreserved=true skill=environment_transit_aware_repair_v1"
+  "pass": false,
+  "reason": "autonomous factory v2.0 FAIL: power subsystem failed: smelterA=0 smelterB=0",
+  "status": "FAIL"
 }
