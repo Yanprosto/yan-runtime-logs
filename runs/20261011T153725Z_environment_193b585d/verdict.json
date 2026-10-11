@@ -1,0 +1,5 @@
+{
+  "pass": false,
+  "reason": "environment builder v1.0 FAIL: local repairs exhausted without activating both sinks",
+  "status": "FAIL"
+}
